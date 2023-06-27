@@ -1,0 +1,50 @@
+name: speech_text
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_tts:
+  file_picker: ^5.2.1
+  permission_handler:
+  filesystem_picker:
+
+
+  path_provider:
+
+
+
+
+  flutter_sound:
+
+
+  audioplayers:
+  easy_localization:
+  flutter_easyloading: ^3.0.0
+  path:
+  google_mobile_ads: ^2.3.0
+  provider:
+  shared_preferences:
+  flutter_native_splash: ^2.3.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/translations/
+
+flutter_native_splash:
+  color: "#29282e"
+  image: assets/tts.png

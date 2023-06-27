@@ -1,0 +1,15 @@
+{
+  "enter_text": "Text eingeben",
+  "enter_text_error": "Bitte geben Sie einige Wörter ein",
+  "save": "Speichern",
+  "play": "Wiedergeben",
+  "text_to_speech": "Text zu Sprache",
+  "delete_succes": "Löschung erfolgreich",
+  "show_files": "Zeige Dateien",
+  "balance_zero": "Guthaben Null. Laden Sie das Guthaben hoch, um fortzufahren",
+  "balance_watch": "Sie können Ihr Guthaben erhöhen, indem Sie sich Werbung ansehen",
+  "balance_alert":"Balance Null",
+  "load_balance":"Lastausgleich",
+  "okay":"OK"
+
+}
